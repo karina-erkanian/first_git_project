@@ -1,6 +1,11 @@
 package day01;
 
 public class HelloWorld {
+    System.out.println("Hello World");
+    System.out.println("Hello Cydeo");
+    System.out.println("Hello Programmers");
+
+
 //enable git -> main menu -> VSC ->enable control integration
 //to ignore a file - right click on it -> git -> add to gitignore
 //in order to save it in the local repository -> ad to the staging area first by giving add command
